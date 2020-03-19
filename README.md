@@ -4,7 +4,7 @@ MATLAB's built-in morphological functions not allowed.
 
 # Description
 1. Median Filter\
-Apply a 3x3 median filter.\
+Apply a 3x3 median filter.
 2. Morphological Image Processing\
 Devise a sequence of morphological and set operations that produce a new image with the following properties:\
 (i) all corruptions are reduced;\
